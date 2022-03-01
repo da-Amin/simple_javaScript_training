@@ -49,7 +49,7 @@ class game{
 // here we start a game
 let gm = new game(10 , 150 , 20);
 console.log("your chance is :   "+gm.start());
-console.log("good luck");
+console.log("good luck dear ");
 
 
 
